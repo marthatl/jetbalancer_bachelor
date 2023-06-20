@@ -5,5 +5,4 @@ For this thesis the objective was to further develop on the JetBot platform with
 The project included designing a robot that would balance on two wheels. 
 In order to do this we added an IMU. 
 We would also need to create a program that served as our PID-controller. 
-The code was written in Jupyter Notebook.
-
+The code was written in Jupyter Notebook. All on the same environment as the set up for the JetBot is on. 
